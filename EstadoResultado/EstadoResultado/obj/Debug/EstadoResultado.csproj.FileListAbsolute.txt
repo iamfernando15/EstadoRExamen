@@ -1,0 +1,11 @@
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.Form1.resources
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.Properties.Resources.resources
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\bin\Debug\EstadoResultado.exe.config
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\bin\Debug\EstadoResultado.exe
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\bin\Debug\EstadoResultado.pdb
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.exe
+C:\Users\HP\Source\Repos\EstadoResultado\EstadoResultado\obj\Debug\EstadoResultado.pdb
